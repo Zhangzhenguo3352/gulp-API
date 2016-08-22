@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangzhenguo3352/gulp-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangzhenguo3352/gulp-API/issues"
+  },
+  "homepage": "https://github.com/Zhangzhenguo3352/gulp-API#readme",
+  "devDependencies": {
+    "react": "^15.3.1",
+    "gulp":"3.9.1"
+  }
+}
